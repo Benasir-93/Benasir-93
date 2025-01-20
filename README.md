@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Benasir Begam</h1>
-<h3 align="center">A passionate MERN Stack developer.</h3>
+<h3 align="center">A passionate MERN Stack & Wordpress developer.</h3>
 <img width="400" src="https://i.pinimg.com/originals/2e/94/62/2e9462cb6e812987c9c05491b61f887e.gif"  alt="coding" style="text-align: right;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benasir-93&label=Profile%20views&color=0e75b6&style=flat" alt="benasir-93" /> </p>
 
